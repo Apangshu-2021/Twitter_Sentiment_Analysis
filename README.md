@@ -15,3 +15,5 @@ It contains the following 6 fields:
 5.user: the user that tweeted (robotickilldozr)
 
 6.text: the text of the tweet (Lyx is cool)
+
+Technologies used:Numpy,Pandas,Matplotlib,Seaborn,Scikit-Learn.
